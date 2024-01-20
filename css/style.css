@@ -1,5 +1,6 @@
 hr{
-    color:#66BFBF;
+    color:#4684c6
+    ;
 }
 #leftbox {
     float:left;
@@ -11,13 +12,25 @@ hr{
     width:50%;
     height:280px;
 }
-body{
-    background-color: #EAF6F6;
-    
-}
+
 h1{
-    color: #66BFBF;
+    color: #4684c6
+    ;
 }
 h3{
-    color: #66BFBF;
+    color: #4684c6;
+    text-align: center;
 }
+button{
+    color:#e9eef7;
+    background-color:#91b7dd;
+    border:none;
+    border-radius:3px;
+    padding:7px;
+    min-height:10px; 
+    min-width: 10px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+  }
